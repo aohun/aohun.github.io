@@ -6,7 +6,8 @@ import {viteBundler} from '@vuepress/bundler-vite'
 import theme from "./theme";
 
 export default defineUserConfig({
-    base: "/",
+    base: '/aohun.github.io/',
+    // base: "/",
     locales: {
         "/": {
             lang: "zh-CN",
