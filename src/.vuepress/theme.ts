@@ -4,10 +4,10 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-    hostname: "https://gitee.com/warm_4/warm-flow-doc",
+    hostname: "https://gitee.com/itllb",
     author: {
-        name: "warm-flow工作流",
-        url: "https://gitee.com/warm_4/warm-flow-doc",
+        name: "wayne",
+        url: "https://gitee.com/itllb",
     },
     iconAssets: "https://at.alicdn.com/t/c/font_4043253_v7nldr3uv7.css",
     iconPrefix: "iconfont icon-",
@@ -18,7 +18,7 @@ export default hopeTheme({
         "/": {
             navbar,
             sidebar,
-            displayFooter: true,
+            displayFooter: false,
             metaLocales: {
                 editLink: "前往 Gitee 编辑此页",
             },

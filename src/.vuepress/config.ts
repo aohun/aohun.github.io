@@ -10,8 +10,8 @@ export default defineUserConfig({
     locales: {
         "/": {
             lang: "zh-CN",
-            title: "warm-flow工作流",
-            description: "国产自研工作流，其特点简洁(只有6张表)但又不简单，五脏俱全，组件独立，可扩展，可满足中小项目的组件。",
+            title: "One-PI",
+            description: "组件化 模块化 轻耦合 高扩展 针对企业痛点 业界一流技术栈",
         },
     },
     theme,

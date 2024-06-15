@@ -1,7 +1,7 @@
 {
-  "name": "warm-flow-doc",
+  "name": "One-PI-doc",
   "version": "1.0.0",
-  "description": "国产自研工作流",
+  "description": "国产自研架构",
   "license": "MIT",
   "type": "module",
   "scripts": {
